@@ -8,18 +8,21 @@ module.exports = {
         {
           listName: "Work List",
           important: false,
+          userId: 1,
           createdAt: new Date(),
           updatedAt: new Date(),
         },
         {
           listName: "Hobbies List",
           important: true,
+          userId: 1,
           createdAt: new Date(),
           updatedAt: new Date(),
         },
         {
           listName: "Personal List",
           important: false,
+          userId: 2,
           createdAt: new Date(),
           updatedAt: new Date(),
         },
